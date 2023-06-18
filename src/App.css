@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+.flexbox {
+  height: 100vh;
+}
+
+.flexbox2 {
+  display: grid;
+  padding: 100px;
+}
+
+.flexbox3 {
+  background-color: #D5E3F0;
+  display: grid;
+  width: 100%;
+}
+
+.flexbox4 {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+}
+
+.instr1{
+  padding: 20px;
+  border: 2px solid white;
+  border-radius: 10px;
+}
+
+.instr2{
+  padding: 20px;
+  border: 2px solid white;
+  border-radius: 10px;
+}
